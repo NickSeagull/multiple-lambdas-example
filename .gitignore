@@ -1,5 +1,6 @@
 dist
 dist-*
+*.cabal
 cabal-dev
 *.o
 *.hi
